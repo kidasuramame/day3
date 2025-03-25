@@ -1,4 +1,4 @@
-# day3# Harry Potter
+# Harry Potter
 
 ## Description
 The *Harry Potter* series, written by J.K. Rowling, is a fantasy book series that follows the adventures of a young wizard, Harry Potter, and his friends, Hermione Granger and Ron Weasley. They navigate the magical world while facing the dark wizard Lord Voldemort, who seeks to dominate both wizards and Muggles.
